@@ -196,7 +196,7 @@ class Monocristall:
         plt.show()
 
 
-"""ОСНОВНАЯ ПРОГРАММА(ЦИКЛ ДЛЯ РАСЧЕТА НДС)"""
+"""ОСНОВНАЯ ПРОГРАММА(ЦИКЛ ДЛ РАСЧЕТА НДС)"""
 data = np.zeros((7, 7, 7), dtype=object)
 tuple_Gu = []
 tuple_Eu = []
